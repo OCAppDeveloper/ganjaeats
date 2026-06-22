@@ -1,0 +1,327 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "shape-divider-image-with-text-overlay-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-divider-image-with-text-overlay-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme3",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "sticker-image-with-text-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 180,
+            "half_width_on_mobile": true,
+            "text": "Now open<br>in NYC!",
+            "shape": "zig_zag_ribbon",
+            "sticker_font_size": "1.25rem",
+            "horizontal_position": 76,
+            "vertical_position": 30,
+            "rotate": 18,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-1 text-scheme-accent-1-contrast"
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-image-with-text-overlay-0",
+        "shape-divider-image-with-text-overlay-1",
+        "sticker-image-with-text-0"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": false,
+        "style": "full",
+        "height": "pt-half-screen-height",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Hella good food",
+        "heading_size": "heading-feature",
+        "richtext": "Dine with us at one of our pop-up locations.",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "menu": {
+      "type": "menu",
+      "blocks": {
+        "menu-group-0": {
+          "type": "menu_group",
+          "settings": {
+            "heading": "From the grill",
+            "tab": "tab_1",
+            "title_1": "Charred Ribeye Steak",
+            "price_1": "$28",
+            "description_1": "12 oz ribeye, garlic butter, rosemary, charred onions",
+            "title_2": "BBQ Chicken Skewers",
+            "price_2": "$16",
+            "description_2": "Marinated chicken thighs, bell peppers, red onions, BBQ glaze",
+            "title_3": "Grilled Pork Belly Tacos",
+            "price_3": "$22",
+            "description_3": "Crispy pork belly, pickled onions, cilantro, chipotle aioli, corn tortillas",
+            "title_4": "Spicy Lamb Chops",
+            "price_4": "$18",
+            "description_4": "Lamb chops, chili rub, mint yogurt, grilled lemon",
+            "title_5": "",
+            "price_5": "",
+            "description_5": "",
+            "title_6": "",
+            "price_6": "",
+            "description_6": "",
+            "title_7": "",
+            "price_7": "",
+            "description_7": "",
+            "title_8": "",
+            "price_8": "",
+            "description_8": "",
+            "title_9": "",
+            "price_9": "",
+            "description_9": "",
+            "title_10": "",
+            "price_10": "",
+            "description_10": ""
+          }
+        },
+        "menu-group-1": {
+          "type": "menu_group",
+          "settings": {
+            "heading": "From the Smoker",
+            "tab": "tab_1",
+            "title_1": "Smoked Brisket",
+            "price_1": "$32",
+            "description_1": "Texas-style smoked brisket, BBQ sauce, pickles, white bread",
+            "title_2": "Pulled Pork Sandwich",
+            "price_2": "$18",
+            "description_2": "Smoked pulled pork, coleslaw, pickles, brioche bun",
+            "title_3": "Smoked Turkey Leg",
+            "price_3": "$24",
+            "description_3": "Smoked turkey leg, honey glaze, smoked paprika rub",
+            "title_4": "Burnt Ends",
+            "price_4": "$10",
+            "description_4": "Smoked beef burnt ends, sweet and spicy BBQ sauce",
+            "title_5": "Smoked Sausage Platter",
+            "price_5": "$32",
+            "description_5": "Assorted smoked sausages, mustard, sauerkraut, pickles",
+            "title_6": "BBQ Smoked Wings",
+            "price_6": "$18",
+            "description_6": "Smoked chicken wings, BBQ rub, blue cheese dip, celery sticks",
+            "title_7": "",
+            "price_7": "",
+            "description_7": "",
+            "title_8": "",
+            "price_8": "",
+            "description_8": "",
+            "title_9": "",
+            "price_9": "",
+            "description_9": "",
+            "title_10": "",
+            "price_10": "",
+            "description_10": ""
+          }
+        },
+        "menu-group-2": {
+          "type": "menu_group",
+          "settings": {
+            "heading": "Beers on Tap",
+            "tab": "tab_2",
+            "title_1": "Hella Good Lager",
+            "price_1": "$8",
+            "description_1": "Lager, USA",
+            "title_2": "Hella Good Pale Ale",
+            "price_2": "$8",
+            "description_2": "Pale Ale, USA",
+            "title_3": "Sierra Nevada Pale Ale",
+            "price_3": "$10",
+            "description_3": "Pale Ale, USA",
+            "title_4": "Bone Shifter Hazy",
+            "price_4": "$10",
+            "description_4": "Hazy Pale Ale, Australia",
+            "title_5": "",
+            "price_5": "",
+            "description_5": "",
+            "title_6": "",
+            "price_6": "",
+            "description_6": "",
+            "title_7": "",
+            "price_7": "",
+            "description_7": "",
+            "title_8": "",
+            "price_8": "",
+            "description_8": "",
+            "title_9": "",
+            "price_9": "",
+            "description_9": "",
+            "title_10": "",
+            "price_10": "",
+            "description_10": ""
+          }
+        },
+        "menu-group-3": {
+          "type": "menu_group",
+          "settings": {
+            "heading": "Cocktails",
+            "tab": "tab_2",
+            "title_1": "Smoky Margarita",
+            "price_1": "$20",
+            "description_1": "Mezcal, lime juice, agave syrup, smoked salt rim",
+            "title_2": "Old Fashioned BBQ",
+            "price_2": "$22",
+            "description_2": "Bourbon, BBQ bitters, smoked simple syrup, orange peel",
+            "title_3": "Smoked Maple Bourbon Sour",
+            "price_3": "$18",
+            "description_3": "Bourbon, smoked maple syrup, lemon juice, egg white, cherry",
+            "title_4": "Grilled Pineapple Mojito",
+            "price_4": "$22",
+            "description_4": "White rum, grilled pineapple, mint, lime juice, soda water",
+            "title_5": "Smoked Cherry Cola",
+            "price_5": "$16",
+            "description_5": "Whiskey, smoked cherry syrup, cola, fresh cherries",
+            "title_6": "Spiced Rum Punch",
+            "price_6": "$22",
+            "description_6": "Dark rum, pineapple juice, lime juice, spiced syrup, nutmeg",
+            "title_7": "",
+            "price_7": "",
+            "description_7": "",
+            "title_8": "",
+            "price_8": "",
+            "description_8": "",
+            "title_9": "",
+            "price_9": "",
+            "description_9": "",
+            "title_10": "",
+            "price_10": "",
+            "description_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "menu-group-0",
+        "menu-group-1",
+        "menu-group-2",
+        "menu-group-3"
+      ],
+      "settings": {
+        "title": "The Menu",
+        "heading_size": "heading-standard",
+        "enable_tabs": true,
+        "tab_1": "Food",
+        "tab_2": "Drinks",
+        "tab_3": "",
+        "display_on_card": true,
+        "menu_heading_style": "heading-secondary",
+        "title_price_color": "text-scheme-text",
+        "show_menu_title_border": true,
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "shapes-with-text-overlay": {
+      "type": "shapes-with-text-overlay",
+      "blocks": {
+        "shape-divider-shapes-with-text-overlay-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme3",
+            "style": "tilt-1-shape_1440x101",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-0": {
+          "type": "shape",
+          "settings": {
+            "title": "CDMX, Mexico",
+            "text": "<p>Thu-Sun 12pm till late<br/>Nápoles 55-71, Juárez, Cuauhtémoc</p>",
+            "shape": "overlapped",
+            "override_section_color_scheme": false,
+            "color_scheme": "scheme4"
+          }
+        },
+        "shape-1": {
+          "type": "shape",
+          "settings": {
+            "title": "NYC, USA",
+            "text": "<p>Thu-Sun 12pm till late<br/>47 W 13th St, New York</p>",
+            "shape": "pixelated",
+            "override_section_color_scheme": false,
+            "color_scheme": "scheme4"
+          }
+        },
+        "shape-2": {
+          "type": "shape",
+          "settings": {
+            "title": "Tokyo, Japan",
+            "text": "<p>Thu-Sun 12pm till late<br/>1 Chome-8-21 Jingumae,<br/>Shibuya City, Tokyo</p>",
+            "shape": "triple_pill_2",
+            "override_section_color_scheme": false,
+            "color_scheme": "scheme4"
+          }
+        },
+        "shape-divider-shapes-with-text-overlay-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme2",
+            "style": "tilt-1-shape_1440x101",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-shapes-with-text-overlay-0",
+        "shape-0",
+        "shape-1",
+        "shape-2",
+        "shape-divider-shapes-with-text-overlay-1"
+      ],
+      "settings": {
+        "slideshow_on_mobile": false,
+        "title": "Locations",
+        "shape_padding": 2,
+        "disable_shape_style": false,
+        "background_color": "bg-scheme-accent-1 text-scheme-accent-1-contrast",
+        "color_scheme": "scheme4",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": ["image-with-text", "menu", "shapes-with-text-overlay"]
+}

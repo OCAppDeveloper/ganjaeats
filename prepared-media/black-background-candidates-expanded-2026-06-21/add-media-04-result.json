@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399151697",
+        "alt": "Chef Matt Crafted Garlic and Herb Olive Oil | Gourmet Condiment on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15531781750865",
+      "title": "Chef Matt Crafted Garlic and Herb Olive Oil | Gourmet Condiment"
+    }
+  }
+}

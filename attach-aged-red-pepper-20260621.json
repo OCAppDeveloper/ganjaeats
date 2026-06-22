@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339378049105",
+        "alt": "Chef Matt Crafted Aged Red Pepper Hot Sauce on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/7841919303761",
+      "title": "Chef Matt Crafted Aged Red Pepper Hot Sauce | Gourmet Condiment"
+    }
+  }
+}

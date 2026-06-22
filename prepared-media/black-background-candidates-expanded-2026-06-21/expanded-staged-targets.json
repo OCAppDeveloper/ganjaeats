@@ -1,0 +1,553 @@
+{
+  "stagedUploadsCreate": {
+    "stagedTargets": [
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/ae931dde-24c8-4f97-8da6-a41303353898/chef-matt-nano-delta-9-powder-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/ae931dde-24c8-4f97-8da6-a41303353898/chef-matt-nano-delta-9-powder-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "16f7cecec38b46f0b4cc2e7637ed8da3ccf39bab0450a9d3331d5ee898fe115c41edd35bb65e514cf9b7777ffd5f9abb422aa352f915d406bb24979cc5c522b505f17699a42fcc252531f8adc488b03bfd519abdd5d6afe88953bdc76cc5c55139ad83e5beab4f3f202e37d0db5f6b5af194a778f85fc1af68580ccf4494dc1f945f9dc40bd5514ac52583b6bf8d0a5921c9233ea148f3a2f8ab2fe24337df04ac4dbf5a81b44263d6f2cf18336cf5f4bc8590c0a6f14c7cb8cc4be9fef6d008edc79b607015d3ff851b0a4764a0f15c289bd9aa32471e653ba5a2f0ee590ac1bf46681b628a3acdbff91eae3f50b186d8c5043eb3d3e2865c1d4401b0f5c16b"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC9hZTkzMWRkZS0yNGM4LTRmOTctOGRhNi1hNDEzMDMzNTM4OThcL2NoZWYtbWF0dC1uYW5vLWRlbHRhLTktcG93ZGVyLWJsYWNrLWJnLWNhbmRpZGF0ZS5wbmcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA2MjFUMTkxNTE4WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA2MjFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNi0yMlQxOToxNToxOFoifQ=="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/759dc818-2ffb-4071-9442-c68cd5a56810/chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/759dc818-2ffb-4071-9442-c68cd5a56810/chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "22edd32eea4c0761a049159aed56165cbc9140015de382294ae672c100f1eb5908589db93952692b8ae1a543c4101866e56c8ff7e7cb09a6642a82d9679990935fb8e206d0672fa7a1e4fe25b92f1c2a02f5560077e5895c603f8e03678376cac78d379704756a36c24d4f9ab8f4426b079403b58a82e376549d7098af5ad894e204a9f14df9e0017ec7aa97aca5cc656f01201524f2233da3927043aa1be38ea174c9574667ca28028e6f98000203e42ed488d38082b12e2239f9d821404af128ffe0ad6a4437a5baaec9f8bed6e89bfb86d1b6e55bcd83a40fcec4f5ee2735df4226b733bf10f70015d5c955b7a8819eccb985bd9944b5b7897719508593d9"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC83NTlkYzgxOC0yZmZiLTQwNzEtOTQ0Mi1jNjhjZDVhNTY4MTBcL2NoZWYtbWF0dC1jcmFmdGVkLWFnZWQtcmVkLXBlcHBlci1ob3Qtc2F1Y2UtMjUtcGFjay1nb3VybWV0LWNvbmRpbWVudC1idW5kbGUtYmxhY2stYmctY2FuZGlkYXRlLnBuZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDYyMVQxOTE1MThaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDYyMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA2LTIyVDE5OjE1OjE4WiJ9"
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/a63943c0-65a4-4c02-86cb-cf85b1dd4c12/chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/a63943c0-65a4-4c02-86cb-cf85b1dd4c12/chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "7d06c4c7c1cebaa302989d4f30a7fdc1defeafa98ebfa394d1c55086cfba66243750c7c2ed9aab2755da62a3baf99becb2c4e59987e4f464bfa4bb78fe57bca51631c060772ba8d1746196a6c730f7510fde198404fc351aac59227793f5edd7f707a006d9aad2cfa79d4031fcb54a6ce0eafe34a832c9adafc75d4d03f5d305c6dfd5e9cd097334a5f7c7c2ad81fb35acca60eb023102884deb778caa668de94e8af8fee876fade5ee1341bbdcb1118cef0d767e7a922eb3da1c538fcf11c9fe126230f6499969dcdf390afb8ae878eebe861804d7e82df1ccdb88274d5c8a262392c667aad61a240f8b826ce4b3031b10357404a6eb135f4168c78d1e85fb2"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC9hNjM5NDNjMC02NWE0LTRjMDItODZjYi1jZjg1YjFkZDRjMTJcL2NoZWYtbWF0dC1jcmFmdGVkLWdhcmxpYy1hbmQtaGVyYi1vbGl2ZS1vaWwtMjUtcGFjay1nb3VybWV0LWNvbmRpbWVudC1idW5kbGUtYmxhY2stYmctY2FuZGlkYXRlLnBuZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDYyMVQxOTE1MThaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDYyMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA2LTIyVDE5OjE1OjE4WiJ9"
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/764bf3a7-2131-4be4-bdf9-d181390fadda/chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/764bf3a7-2131-4be4-bdf9-d181390fadda/chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "594ea7b6ef0596e0f343930d8521eb99cbcc321f88824ac307093475d771a85001fb2e06c5b86a631f2a0cf33fc533888b05bd8a0f09bd18a5c76bebbe96ec54c50b77c81e4eb3ded7ae1836e4df4e81c440f727cabf3a9048e40b9d88eec6f1dc684fd55ec1bbe0feeead6260080912b1d6b99f8ea0c62fe5482ee7eb5e1438b5e0a8366e8698a06a89f0b7088a25869e445f244d4ed1c987f371c1e3d3d1aa6ecd47007eb9b576ff6f39ee884a08622c3911c87b8ee80a60699fea947f0a86337f036ae95be92462ea6191ae13c4520461a7e4e2a79a5401290fb5811e5f9f58a59f3e3142e29f5a2d7440ccabf6b6e73b42050cec846700dfbe3aeb445f47"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC83NjRiZjNhNy0yMTMxLTRiZTQtYmRmOS1kMTgxMzkwZmFkZGFcL2NoZWYtbWF0dC1jcmFmdGVkLWdhcmxpYy1hbmQtaGVyYi1vbGl2ZS1vaWwtZ291cm1ldC1jb25kaW1lbnQtYmxhY2stYmctY2FuZGlkYXRlLnBuZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDYyMVQxOTE1MThaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDYyMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA2LTIyVDE5OjE1OjE4WiJ9"
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/701486ab-01d8-42e0-9a31-c4eb121047e8/chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/701486ab-01d8-42e0-9a31-c4eb121047e8/chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "1a2bacf9d507def854e12f29e266e4dbc4ab92629edc064603cba22817604c29e511b73d67afd62d9a4e6309ab217b45745209163140f6bab29778c372f09a0598a0e30b5e0b8e612e33a23cb98ecea49ea67c42cc49990ac184d4da9b8968e225d851874478d5c776c00b13ff53a24b0a095c6d37d7d3e9b0dec98dc5b1f76346ab9f0803aaf173057f56a4d51170fdce3fe7acde9176190a2b1749361864eb5e44b79c36b0ec6f42ecc35926aa926b6f65a6158fc2142cbd7896891c6da50ab7081bb10cd44a881feae8cbdea808fbe8a2ca56fbaede8e5ec0bb3233f2309df43ab20bd47d5291f1a4eb19cca3dd2c73347cf53641cc5ee617b50fb461831e"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC83MDE0ODZhYi0wMWQ4LTQyZTAtOWEzMS1jNGViMTIxMDQ3ZThcL2NoZWYtbWF0dC1jcmFmdGVkLWhpY2tvcnktc21va2VkLWJicS1zYXVjZS0yNS1wYWNrLWdvdXJtZXQtY29uZGltZW50LWJ1bmRsZS1ibGFjay1iZy1jYW5kaWRhdGUucG5nIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNjIxVDE5MTUxOFoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNjIxXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDYtMjJUMTk6MTU6MThaIn0="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/e5352f56-cc56-44da-b578-f99e8b33ce3e/chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/e5352f56-cc56-44da-b578-f99e8b33ce3e/chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "6ca406b0ca6931da6dd843d7167ff0891194287a9e0d9c6ac38e4b917c4a7d07639d90ff303e2e688686914c74c6ecb6541294254ce30ab8af4df22b27c6792336a56c0f355466dfb37df6a62b636dbaa920a725aed4454f01b80ca9e4f08c946f37fd6a0ecfe9b8a035895e491ab380d5d6617b5f5894875c8d09bdd6eac5511661bf56701dd9c222fcb7eb319cd7b3b072daa947c7414918a77c59a6da556752c89b2948140ccb933b544ff78531de8a8381c5de6d8cf01a0ea43af19044d7ffb66c08a90c2f7a65a38ca5cffb638c8e66200e4618df04ffb28b93dd48ce1e1c7b7b0a0d45accd7a092e508098a795902aac90adf5d5b4081483ed712069c3"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC9lNTM1MmY1Ni1jYzU2LTQ0ZGEtYjU3OC1mOTllOGIzM2NlM2VcL2NoZWYtbWF0dC1jcmFmdGVkLWxpbW9uLWNoaXBzLXJlYWR5LXRvLWVuam95LXNhdm9yeS1zbmFjay1ibGFjay1iZy1jYW5kaWRhdGUucG5nIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNjIxVDE5MTUxOFoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNjIxXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDYtMjJUMTk6MTU6MThaIn0="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/09c784ba-3e8c-4d1f-a154-ead043e2a8e9/chef-matt-crafted-mango-honey-gourmet-condiment-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/09c784ba-3e8c-4d1f-a154-ead043e2a8e9/chef-matt-crafted-mango-honey-gourmet-condiment-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "6a5f0ae8fe762b1f35a475466cfc5e50e2edbdfb844ebe8a5ed19ede4314dd4b153c4ee48d7909792272524c62e8e9c9b8535e4147135a309bffe373c8f2459b082815e28c55513f387207010d4e388e34cc2b1e724cc77b259a4824814888588c993a51d7d2e28c47fdff892891c857063e20c3a9ce5cf93a742f39bbb151e6d0c43d0e56ca01a33bd1452c65f487fcadb9febaf32fbe80cfe2ff9eeccb87a801caed6a6ac5042cfff9614db78a61bdbf5f8a8ac9711d376ae7fa3af0e88b03f2977aaac7556cb2919cdcf3e1950a6da016bd2b17012c5f6be5690c585cccda4c791915a21d3a7f8e6f4b620129d7b4dd20e2c2d3848d81a93674837f18c286"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC8wOWM3ODRiYS0zZThjLTRkMWYtYTE1NC1lYWQwNDNlMmE4ZTlcL2NoZWYtbWF0dC1jcmFmdGVkLW1hbmdvLWhvbmV5LWdvdXJtZXQtY29uZGltZW50LWJsYWNrLWJnLWNhbmRpZGF0ZS5wbmcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA2MjFUMTkxNTE4WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA2MjFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNi0yMlQxOToxNToxOFoifQ=="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/426709a4-0ef8-49c9-8571-3535f40b43ac/chef-matt-crafted-sauce-variety-bundle-gourmet-condiments-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/426709a4-0ef8-49c9-8571-3535f40b43ac/chef-matt-crafted-sauce-variety-bundle-gourmet-condiments-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "32be948554a1dd07d91d8b475b8f1df109a740948f88fe0f8df5c812a2612465ec8306aaff730f27821b0598537a8ab960d44823a139f1f5803359382a8ef050d241df42cd260920963cd1d11ac95783d8e23e941205195be115fc8824aa2c33f25389881f26b06eb2cffee0855f974f0050fef10476116a83f5804cb6a2c580ea3809ae343856b950660345051bce7613801006f105d1442e043f277fd0d4cb65080ecef1b2f4b8d0b6a0a67d08f7780b89da018da37de706b08affa403714d491360c56fbb635f7768abc33ca902c438254bda1c57aa6a2778093d978b42851cae42e10bc0ed1932d6649f872a791c20436485370d40d63d03e3c46b8c6b39"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC80MjY3MDlhNC0wZWY4LTQ5YzktODU3MS0zNTM1ZjQwYjQzYWNcL2NoZWYtbWF0dC1jcmFmdGVkLXNhdWNlLXZhcmlldHktYnVuZGxlLWdvdXJtZXQtY29uZGltZW50cy1ibGFjay1iZy1jYW5kaWRhdGUucG5nIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNjIxVDE5MTUxOFoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNjIxXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDYtMjJUMTk6MTU6MThaIn0="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/39d892b7-026a-46e8-93f0-a9f0aa8ac804/chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/39d892b7-026a-46e8-93f0-a9f0aa8ac804/chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "8b6cca54fbf6b0f70aeadb32498a6ade4534203e690bdcb5a93e16c77268f98a5c2636971a84b467ef8c57d48c4205b08f9d73ab6bd7618c181c4fc820eb9c0523efda432271eb3bb36486bfb230a5c6156e5c988d438c58604ca66fc8d243612c9ba270c7583a0e0a042f28cf20d8f6bc687e92204561ded62bc9d9306a2ffa47f82eceaac54e602b06dab1a2b049ca77fdb21401b7b057dc40e54259cd2c8b867a5968b7788203de4ae70ff232f6a03e7e70d6cedfe27c5bf0620545dbeba7554aecc417fb9687490ab29f25075dac494a3e9819f6d36af691e7867b7c60f53c3366fe540b8bb756ceae62d70c138e7d7b65861b13c6d5e19e6e726896850d"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC8zOWQ4OTJiNy0wMjZhLTQ2ZTgtOTNmMC1hOWYwYWE4YWM4MDRcL2NoZWYtbWF0dC1ob3Qtc2F1Y2UtNS1wYWNrLWJ1bmRsZS1idXktNC1nZXQtMS1mcmVlLWJsYWNrLWJnLWNhbmRpZGF0ZS5wbmcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA2MjFUMTkxNTE4WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA2MjFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNi0yMlQxOToxNToxOFoifQ=="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/3602e144-4407-4248-96c9-49233f2ebe3c/litquid-6-pack-crafted-drink-bundle-premium-beverages-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/3602e144-4407-4248-96c9-49233f2ebe3c/litquid-6-pack-crafted-drink-bundle-premium-beverages-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "2b9eb99299ec3cb1e3256932c1c4cd72aa17d18a36ddfccdec6d237736afc7f1229a3b8cf88d771cf0f0955d0782b9fa062f2788cb75ce71560b67734a8b3392c0bc188a07519f61b98e9f07520d4ea5175988d758687ace2b59ebad0d7b759a9dc7cf49d1ddb14c955678c7e0033b0742c8a3f37914f8408b6948bbf7c2b6619313808d147a91ef150e930f6ed5f93acc29db2eb840799d59f5482f6aa6d4c16e872545e557824f25a8979ed2201bb1dd005c6d2c3f613566c005f3d6677df20a7b7bda7bc14a1c3f82027f34d225b3362bc8ca1225b60ff0002ba3ef672b8c5f0e33770dd384462c525ba2ab617911867b968b559f15ba86f58d85b61a1613"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC8zNjAyZTE0NC00NDA3LTQyNDgtOTZjOS00OTIzM2YyZWJlM2NcL2xpdHF1aWQtNi1wYWNrLWNyYWZ0ZWQtZHJpbmstYnVuZGxlLXByZW1pdW0tYmV2ZXJhZ2VzLWJsYWNrLWJnLWNhbmRpZGF0ZS5wbmcifSx7IngtZ29vZy1kYXRlIjoiMjAyNjA2MjFUMTkxNTE4WiJ9LHsieC1nb29nLWNyZWRlbnRpYWwiOiJtZXJjaGFudC1hc3NldHNAc2hvcGlmeS10aWVycy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbVwvMjAyNjA2MjFcL2F1dG9cL3N0b3JhZ2VcL2dvb2c0X3JlcXVlc3QifSx7IngtZ29vZy1hbGdvcml0aG0iOiJHT09HNC1SU0EtU0hBMjU2In1dLCJleHBpcmF0aW9uIjoiMjAyNi0wNi0yMlQxOToxNToxOFoifQ=="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/1d1d07cd-535e-426b-8143-4ca4e87f86f7/litquid-lemon-lime-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/1d1d07cd-535e-426b-8143-4ca4e87f86f7/litquid-lemon-lime-crafted-drink-premium-beverage-16oz-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "42ab123ec4edc0652a094d7d291cb94f65082f0de33629949ae9c26610334a5a8713b3a34f1648db21beb19d6b7e1767dc080cc01bf65d43f2b6d89811611254d56b5788c0b690622c10c15712c05d9414a459f1b8c4f8ce6013222312765ed328aff00433b99c842728f7a08264443ed46bb7463c33c972d396698b6c75a67cc56f9f27a7460a0e4539fc83126f83a65b8641a47d56946712c767eae854a254e0cec947f7fcdb170abcbf07f08a787a1bb963f73e853a2a53d9e43ac65b93887b449ae5e9f7289f9629fadd72abb021b3079e200011706f9c1edbb792a9409b7871a64314004d0080a4efa4aa09cd81db6552e81b12f63fef61df8b6bf59c20"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC8xZDFkMDdjZC01MzVlLTQyNmItODE0My00Y2E0ZTg3Zjg2ZjdcL2xpdHF1aWQtbGVtb24tbGltZS1jcmFmdGVkLWRyaW5rLXByZW1pdW0tYmV2ZXJhZ2UtMTZvei1ibGFjay1iZy1jYW5kaWRhdGUucG5nIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNjIxVDE5MTUxOFoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNjIxXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDYtMjJUMTk6MTU6MThaIn0="
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/510d883c-2b58-4289-a3ba-dd63ccec4ab3/litquid-mango-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/510d883c-2b58-4289-a3ba-dd63ccec4ab3/litquid-mango-crafted-drink-premium-beverage-16oz-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "af5ba586d244ada358a95ab740e27824da4d63cb7031d7018e7dc6824b6f7977e73b68043a1f54156a9361c99fbbf95ec2e31563f03904650527a281e72831bb0184845fba478f9a98672b02608c5fe88056e87220527dccc4d640d87d21f95a7574774013b0d9e4e0b2ffee49b17d6504982268fba8628b01dc34cb06556c6c6debd7039e96359cc124b9c601af0e22225ee349f80a2da3527212d7f283939eaaac3b8632876eb80ef755f49ddb18b53a675b3ee1b623ff0c4c2fea6f873211e333a92b297f041b6f8cd31922b573a669c3c30d2ec0059f95ab5070235befc55b192b2bf85ec9432bf0ba65b65cf3f7a51fc8d42e03703e3728d15417b86728"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC81MTBkODgzYy0yYjU4LTQyODktYTNiYS1kZDYzY2NlYzRhYjNcL2xpdHF1aWQtbWFuZ28tY3JhZnRlZC1kcmluay1wcmVtaXVtLWJldmVyYWdlLTE2b3otYmxhY2stYmctY2FuZGlkYXRlLnBuZyJ9LHsieC1nb29nLWRhdGUiOiIyMDI2MDYyMVQxOTE1MThaIn0seyJ4LWdvb2ctY3JlZGVudGlhbCI6Im1lcmNoYW50LWFzc2V0c0BzaG9waWZ5LXRpZXJzLmlhbS5nc2VydmljZWFjY291bnQuY29tXC8yMDI2MDYyMVwvYXV0b1wvc3RvcmFnZVwvZ29vZzRfcmVxdWVzdCJ9LHsieC1nb29nLWFsZ29yaXRobSI6IkdPT0c0LVJTQS1TSEEyNTYifV0sImV4cGlyYXRpb24iOiIyMDI2LTA2LTIyVDE5OjE1OjE4WiJ9"
+          }
+        ]
+      },
+      {
+        "url": "https://shopify-staged-uploads.storage.googleapis.com/",
+        "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/1221ee5d-d699-442c-9f29-bdcc9e715a1f/litquid-watermelon-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+        "parameters": [
+          {
+            "name": "Content-Type",
+            "value": "image/png"
+          },
+          {
+            "name": "success_action_status",
+            "value": "201"
+          },
+          {
+            "name": "acl",
+            "value": "private"
+          },
+          {
+            "name": "key",
+            "value": "tmp/68457758801/products/1221ee5d-d699-442c-9f29-bdcc9e715a1f/litquid-watermelon-crafted-drink-premium-beverage-16oz-black-bg-candidate.png"
+          },
+          {
+            "name": "x-goog-date",
+            "value": "20260621T191518Z"
+          },
+          {
+            "name": "x-goog-credential",
+            "value": "merchant-assets@shopify-tiers.iam.gserviceaccount.com/20260621/auto/storage/goog4_request"
+          },
+          {
+            "name": "x-goog-algorithm",
+            "value": "GOOG4-RSA-SHA256"
+          },
+          {
+            "name": "x-goog-signature",
+            "value": "7918339d6dddd9487289dc03dff3ecbaf184b6ccd7523ab89738e82a35682c3104a493a5ffd28296f48a32d8cd4212b21162c37062c9c5a0c5983f871f1274fde1ef7502f7bb1eed6c71091730a7a8b5b3d60230305446c67b599535708cb63bf122722807db5675a688618223e489241fb88b4664f42c56d971eaaf2a950b7fd93abc9eef028864b2be88502c83d415beed0262c139d024936af35a46c1175b7a19d39bc547e6bcdc7f2bb6af7b0a3e231ab6d2e954f3dbdf413fca2e3770e12f402a400de18d72c3c09f0097a61fc12ee0d70793aa4f3716f373ea711ffa44733f8415d9ff26153a96f7d65173e96f72e16e18e822f5d06b05fff0404e068f"
+          },
+          {
+            "name": "policy",
+            "value": "eyJjb25kaXRpb25zIjpbeyJDb250ZW50LVR5cGUiOiJpbWFnZVwvcG5nIn0seyJzdWNjZXNzX2FjdGlvbl9zdGF0dXMiOiIyMDEifSx7ImFjbCI6InByaXZhdGUifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwxLDIwOTcxNTIwXSx7ImJ1Y2tldCI6InNob3BpZnktc3RhZ2VkLXVwbG9hZHMifSx7ImtleSI6InRtcFwvNjg0NTc3NTg4MDFcL3Byb2R1Y3RzXC8xMjIxZWU1ZC1kNjk5LTQ0MmMtOWYyOS1iZGNjOWU3MTVhMWZcL2xpdHF1aWQtd2F0ZXJtZWxvbi1jcmFmdGVkLWRyaW5rLXByZW1pdW0tYmV2ZXJhZ2UtMTZvei1ibGFjay1iZy1jYW5kaWRhdGUucG5nIn0seyJ4LWdvb2ctZGF0ZSI6IjIwMjYwNjIxVDE5MTUxOFoifSx7IngtZ29vZy1jcmVkZW50aWFsIjoibWVyY2hhbnQtYXNzZXRzQHNob3BpZnktdGllcnMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb21cLzIwMjYwNjIxXC9hdXRvXC9zdG9yYWdlXC9nb29nNF9yZXF1ZXN0In0seyJ4LWdvb2ctYWxnb3JpdGhtIjoiR09PRzQtUlNBLVNIQTI1NiJ9XSwiZXhwaXJhdGlvbiI6IjIwMjYtMDYtMjJUMTk6MTU6MThaIn0="
+          }
+        ]
+      }
+    ],
+    "userErrors": []
+  }
+}

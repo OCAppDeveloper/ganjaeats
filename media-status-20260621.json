@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "id": "gid://shopify/Product/7841919303761",
+      "handle": "chef-matt-crafted-aged-red-pepper-hot-sauce-gourmet-condiment",
+      "title": "Chef Matt Crafted Aged Red Pepper Hot Sauce | Gourmet Condiment",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/67170675916881",
+            "alt": "Chef Matt Cannabis Infused Aged Red Pepper Hot Sauce product image showing Aged Red Pepper Hot Sauce for adult customers",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/28638074863697",
+            "alt": "Premium hot sauce collection gift box Chef Matt Store Cannabis Infused Aged Red Pepper Hot Sauce Bundle | THC hot sauce | gourmet cannabis sauces | infused spicy sauce | cannabis pepper sauce",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778153041",
+            "alt": "Chef Matt Store Cannabis Infused Red Pepper Hot Sauce | THC gourmet hot sauce | infused spicy sauce | cannabis chili sauce | gourmet cannabis hot sauce",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778185809",
+            "alt": "Chef Matt Store Cannabis Infused Red Pepper Hot Sauce | THC gourmet hot sauce | infused spicy sauce | cannabis chili sauce | gourmet cannabis hot sauce",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778087505",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778054737",
+            "alt": "Chef Matt Store Cannabis Infused Red Pepper Hot Sauce | THC gourmet hot sauce | infused spicy sauce | cannabis chili sauce | gourmet cannabis hot sauce",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778316881",
+            "alt": "Chef Matt Store Cannabis Infused Red Pepper Hot Sauce | THC gourmet hot sauce | infused spicy sauce | cannabis chili sauce | gourmet cannabis hot sauce",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/71339378049105",
+            "alt": "Chef Matt Crafted Aged Red Pepper Hot Sauce on black background",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/7841926119505",
+      "handle": "chef-matt-crafted-classic-ketchup-25-pack-gourmet-condiment-bundle",
+      "title": "Chef Matt Crafted Classic Ketchup 25 Pack | Gourmet Condiment Bundle",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/67190215999569",
+            "alt": "Chef Matt Cannabis Infused Classic Ketchup 25-Count Bundle product image showing Classic Ketchup for adult customers",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170675884113",
+            "alt": "Chef Matt Cannabis Infused Classic Ketchup product image showing Classic Ketchup for adult customers",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/28638075191377",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170779758673",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778087505",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/71339378081873",
+            "alt": "Chef Matt Crafted Classic Ketchup 25 Pack on black background",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          }
+        ]
+      }
+    },
+    {
+      "id": "gid://shopify/Product/7841918615633",
+      "handle": "chef-matt-crafted-classic-ketchup-gourmet-condiment",
+      "title": "Chef Matt Crafted Classic Ketchup | Gourmet Condiment",
+      "media": {
+        "nodes": [
+          {
+            "id": "gid://shopify/MediaImage/67170675884113",
+            "alt": "Chef Matt Cannabis Infused Classic Ketchup product image showing Classic Ketchup for adult customers",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/28638075191377",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170778087505",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/67170779758673",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible ketchup | gourmet cannabis condiments | infused ketchup | cannabis cooking ketchup",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/Video/67170778349649",
+            "alt": "Chef Matt Store Cannabis Infused Classic Ketchup | THC edible condiment | gourmet cannabis ketchup | infused tomato sauce | cannabis cooking ketchup",
+            "mediaContentType": "VIDEO",
+            "status": "READY"
+          },
+          {
+            "id": "gid://shopify/MediaImage/71339378016337",
+            "alt": "Chef Matt Crafted Classic Ketchup on black background",
+            "mediaContentType": "IMAGE",
+            "status": "READY"
+          }
+        ]
+      }
+    }
+  ]
+}

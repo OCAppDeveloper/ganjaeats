@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399512145",
+        "alt": "Chef Matt Crafted Limon Chips | Ready to Enjoy Savory Snack on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15531831787601",
+      "title": "Chef Matt Crafted Limon Chips | Ready to Enjoy Savory Snack"
+    }
+  }
+}

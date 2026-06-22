@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339378016337",
+        "alt": "Chef Matt Crafted Classic Ketchup on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/7841918615633",
+      "title": "Chef Matt Crafted Classic Ketchup | Gourmet Condiment"
+    }
+  }
+}

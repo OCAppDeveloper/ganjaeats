@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399708753",
+        "alt": "Chef Matt Crafted Sauce Variety Bundle | Gourmet Condiments on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15648525254737",
+      "title": "Chef Matt Crafted Sauce Variety Bundle | Gourmet Condiments"
+    }
+  }
+}

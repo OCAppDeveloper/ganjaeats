@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339398987857",
+        "alt": "Chef Matt Crafted Aged Red Pepper Hot Sauce 25 Pack | Gourmet Condiment Bundle on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/7841925759057",
+      "title": "Chef Matt Crafted Aged Red Pepper Hot Sauce 25 Pack | Gourmet Condiment Bundle"
+    }
+  }
+}

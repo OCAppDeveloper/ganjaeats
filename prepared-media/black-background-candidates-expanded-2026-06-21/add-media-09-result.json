@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399807057",
+        "alt": "Chef Matt Hot Sauce 5 Pack Bundle | Buy 4 Get 1 Free on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15584597999697",
+      "title": "Chef Matt Hot Sauce 5 Pack Bundle | Buy 4 Get 1 Free"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399905361",
+        "alt": "LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15812641062993",
+      "title": "LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages"
+    }
+  }
+}

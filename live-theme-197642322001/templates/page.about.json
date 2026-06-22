@@ -1,0 +1,182 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "shape-divider-image-with-text-overlay-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-divider-image-with-text-overlay-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme3",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-image-with-text-overlay-0",
+        "shape-divider-image-with-text-overlay-1"
+      ],
+      "settings": {
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": false,
+        "style": "full",
+        "height": "pt-600",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "A hella good story",
+        "heading_size": "heading-feature",
+        "richtext": "",
+        "cta_url": "",
+        "cta_text": "Shop Now",
+        "color_scheme": "",
+        "use_gradient_background": false
+      }
+    },
+    "feature-text": {
+      "type": "feature-text",
+      "settings": {
+        "rich_text": "We specialize in crafting bold spices, tantalizing hot sauces, and gourmet seasonings that elevate every dish.",
+        "mobile_text_scale": 2,
+        "desktop_text_scale": 10,
+        "display_on_card": false,
+        "apply_effects": false,
+        "content_width_desktop": "lg:w-full",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "shape-divider-image-with-text-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme3",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": ["shape-divider-image-with-text-0"],
+      "settings": {
+        "display_on_card": false,
+        "crop": "",
+        "image_shape": "pancake_stack",
+        "blob_type": 1,
+        "rotate_image": -4,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "title": "Our Story",
+        "heading_size": "heading-standard",
+        "richtext": "<p>Hella Goods was born from a love for big, bold flavors. What started in a small kitchen with a few spice blends has grown into a full line of products, each crafted with care and precision. From our Crispy Chili Oil to our signature El Diablo Hot Sauce, we’re all about delivering unforgettable taste experiences.</p>",
+        "text_alignment": "text-left",
+        "button_link": "",
+        "button_label": "Shop Now",
+        "color_scheme": "",
+        "use_gradient_background": false
+      }
+    },
+    "video-with-text-overlay": {
+      "type": "video-with-text-overlay",
+      "blocks": {
+        "shape-divider-video-with-text-overlay-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "shape-divider-video-with-text-overlay-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme2",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "sticker-video-with-text-overlay-0": {
+          "type": "sticker",
+          "settings": {
+            "width": 150,
+            "half_width_on_mobile": false,
+            "text": "Let us cook!",
+            "shape": "star_1",
+            "sticker_font_size": "1.563rem",
+            "horizontal_position": 15,
+            "vertical_position": 21,
+            "rotate": -18,
+            "show_sticker_on_mobile": true,
+            "show_sticker_on_desktop": true,
+            "rotation_animation": "none",
+            "enable_parallax": false,
+            "parallax_speed": 3,
+            "color_scheme": "scheme1",
+            "color": "bg-scheme-accent-2 text-scheme-accent-2-contrast"
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-video-with-text-overlay-0",
+        "shape-divider-video-with-text-overlay-1",
+        "sticker-video-with-text-overlay-0"
+      ],
+      "settings": {
+        "crop": "square",
+        "crop_desktop": "widescreen",
+        "display_on_card": true,
+        "display_content_below_image_on_mobile": false,
+        "style": "full",
+        "place_content": "place-content-center-center",
+        "text_align": "text-center",
+        "title": "Hella good dining",
+        "heading_size": "heading-feature",
+        "richtext": "Quality street food in quality cities.",
+        "cta_text": "Our restaurants",
+        "color_scheme": "scheme2",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "image-with-text-overlay",
+    "feature-text",
+    "image-with-text",
+    "video-with-text-overlay"
+  ]
+}

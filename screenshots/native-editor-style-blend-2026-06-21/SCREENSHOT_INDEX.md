@@ -1,0 +1,11 @@
+# Native Editor Style Blend Screenshots
+
+Theme: Ganja Eats — Pixel Match / 197642322001
+Change: color/style blend pass for collection, PDP, bundle, and cart using native Custom Liquid CSS.
+Captured: 2026-06-21T16:22:35.820Z
+
+- collection: /collections/all -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-style-blend-2026-06-21/collection-1440.png (Products – Ganja Eats Shop; bg={"bodyBg":"rgb(243, 238, 227)","mainBg":"rgb(243, 238, 227)","sectionBg":"rgb(243, 238, 227)"})
+- gummies-pdp: /products/cali-supreme-watermelon-gummies-fast-onset-crafted-candy -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-style-blend-2026-06-21/gummies-pdp-1440.png (Cali Supreme Watermelon Gummies | Fast Onset Gourmet Candy – Ganja Eats Shop; bg={"bodyBg":"rgb(243, 238, 227)","mainBg":"rgb(243, 238, 227)","sectionBg":"rgb(243, 238, 227)"})
+- litquid-pdp: /products/litquid-watermelon-crafted-drink-premium-beverage-16oz -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-style-blend-2026-06-21/litquid-pdp-1440.png (LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz – Ganja Eats Shop; bg={"bodyBg":"rgb(243, 238, 227)","mainBg":"rgb(243, 238, 227)","sectionBg":"rgb(243, 238, 227)"})
+- bundle-pdp: /products/litquid-6-pack-crafted-drink-bundle-premium-beverages -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-style-blend-2026-06-21/bundle-pdp-1440.png (LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages – Ganja Eats Shop; bg={"bodyBg":"rgb(243, 238, 227)","mainBg":"rgb(243, 238, 227)","sectionBg":"rgb(243, 238, 227)"})
+- cart: /cart -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-style-blend-2026-06-21/cart-1440.png (Your Shopping Cart – Ganja Eats Shop; bg={"bodyBg":"rgb(243, 238, 227)","mainBg":"rgb(243, 238, 227)","sectionBg":"rgb(243, 238, 227)"})

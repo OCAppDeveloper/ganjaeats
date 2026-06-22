@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339378081873",
+        "alt": "Chef Matt Crafted Classic Ketchup 25 Pack on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/7841926119505",
+      "title": "Chef Matt Crafted Classic Ketchup 25 Pack | Gourmet Condiment Bundle"
+    }
+  }
+}

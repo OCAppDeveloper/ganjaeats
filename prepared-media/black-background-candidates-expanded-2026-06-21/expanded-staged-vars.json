@@ -1,0 +1,82 @@
+{
+  "input": [
+    {
+      "filename": "chef-matt-nano-delta-9-powder-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-mango-honey-gourmet-condiment-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-crafted-sauce-variety-bundle-gourmet-condiments-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "litquid-6-pack-crafted-drink-bundle-premium-beverages-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "litquid-lemon-lime-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "litquid-mango-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    },
+    {
+      "filename": "litquid-watermelon-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "mimeType": "image/png",
+      "httpMethod": "POST",
+      "resource": "PRODUCT_IMAGE"
+    }
+  ]
+}

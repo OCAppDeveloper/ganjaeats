@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339400167505",
+        "alt": "LITQUID Mango Crafted Drink | Premium Beverage | 16oz on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15811343777873",
+      "title": "LITQUID Mango Crafted Drink | Premium Beverage | 16oz"
+    }
+  }
+}

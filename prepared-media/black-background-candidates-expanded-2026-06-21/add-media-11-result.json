@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339400069201",
+        "alt": "LITQUID Lemon Lime Crafted Drink | Premium Beverage | 16oz on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15811350724689",
+      "title": "LITQUID Lemon Lime Crafted Drink | Premium Beverage | 16oz"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339398889553",
+        "alt": "10 Grams Nano Delta 9 Powder on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15810126282833",
+      "title": "10 Grams Nano Delta 9 Powder"
+    }
+  }
+}

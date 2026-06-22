@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339400265809",
+        "alt": "LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15811344433233",
+      "title": "LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# Native Editor Preview Screenshots After Pass
+
+Theme: Ganja Eats — Pixel Match (197642322001)
+Captured: 2026-06-21T16:06:58.289Z
+Toolbar: hidden via preview toolbar before clean captures
+
+- 01-homepage: / -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/01-homepage-1440-clean.png (Cannabis Edibles & THC Gummies Menu | Ganja Eats – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 02-shop-collection: /collections/all -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/02-shop-collection-1440-clean.png (Products – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 03-fast-onset-gummies-pdp: /products/cali-supreme-watermelon-gummies-fast-onset-crafted-candy -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/03-fast-onset-gummies-pdp-1440-clean.png (Cali Supreme Watermelon Gummies | Fast Onset Gourmet Candy – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 04-litquid-watermelon-pdp: /products/litquid-watermelon-crafted-drink-premium-beverage-16oz -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/04-litquid-watermelon-pdp-1440-clean.png (LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 05-bundle-pdp: /products/litquid-6-pack-crafted-drink-bundle-premium-beverages -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/05-bundle-pdp-1440-clean.png (LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 06-lab-results: /pages/lab-results -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/06-lab-results-1440-clean.png (404 Not Found – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 07-new-to-thc: /pages/new-to-thc -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/07-new-to-thc-1440-clean.png (404 Not Found – Ganja Eats Shop; hide={"hidden":true,"attempts":1})
+- 08-cart: /cart -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-preview-after-pass-2026-06-21/08-cart-1440-clean.png (Your Shopping Cart – Ganja Eats Shop; hide={"hidden":true,"attempts":1})

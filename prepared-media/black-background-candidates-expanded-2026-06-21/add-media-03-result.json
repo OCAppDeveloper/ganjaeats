@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399086161",
+        "alt": "Chef Matt Crafted Garlic and Herb Olive Oil 25 Pack | Gourmet Condiment Bundle on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15531788173393",
+      "title": "Chef Matt Crafted Garlic and Herb Olive Oil 25 Pack | Gourmet Condiment Bundle"
+    }
+  }
+}

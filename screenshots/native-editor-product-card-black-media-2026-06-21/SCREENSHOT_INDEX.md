@@ -1,0 +1,10 @@
+# Product Card Black Media Screenshots
+
+Theme: Ganja Eats — Pixel Match / 197642322001
+Change: high-specificity CSS override makes product-card image wells black on collection/home/related product cards.
+Captured: 2026-06-21T16:42:26.742Z
+
+- collection: https://chefmattonline.com/collections/all?preview_theme_id=197642322001&pb=0 -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-product-card-black-media-2026-06-21/collection-1440.png (Products – Ganja Eats Shop; width=1440; firstMediaBg=rgb(5, 5, 3); relatedMediaBg=null; affectedMediaBg=rgb(5, 5, 3); affectedImgBg=rgb(5, 5, 3))
+- gummies-pdp: https://chefmattonline.com/products/cali-supreme-watermelon-gummies-fast-onset-crafted-candy?preview_theme_id=197642322001&pb=0 -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-product-card-black-media-2026-06-21/gummies-pdp-1440.png (Cali Supreme Watermelon Gummies | Fast Onset Gourmet Candy – Ganja Eats Shop; width=1440; firstMediaBg=rgb(5, 5, 3); relatedMediaBg=rgb(5, 5, 3); affectedMediaBg=null; affectedImgBg=null)
+- bundle-pdp: https://chefmattonline.com/products/litquid-6-pack-crafted-drink-bundle-premium-beverages?preview_theme_id=197642322001&pb=0 -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-product-card-black-media-2026-06-21/bundle-pdp-1440.png (LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages – Ganja Eats Shop; width=1440; firstMediaBg=rgb(5, 5, 3); relatedMediaBg=rgb(5, 5, 3); affectedMediaBg=null; affectedImgBg=null)
+- home: https://chefmattonline.com/?preview_theme_id=197642322001&pb=0 -> /Users/simbata/Library/Mobile Documents/com~apple~CloudDocs/illmaa/projects/ganja-eats-pixel-match/screenshots/native-editor-product-card-black-media-2026-06-21/home-1440.png (Cannabis Edibles & THC Gummies Menu | Ganja Eats – Ganja Eats Shop; width=1440; firstMediaBg=rgb(5, 5, 3); relatedMediaBg=null; affectedMediaBg=null; affectedImgBg=null)

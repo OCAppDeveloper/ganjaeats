@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399413841",
+        "alt": "Chef Matt Crafted Hickory Smoked BBQ Sauce 25 Pack | Gourmet Condiment Bundle on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/7841926643793",
+      "title": "Chef Matt Crafted Hickory Smoked BBQ Sauce 25 Pack | Gourmet Condiment Bundle"
+    }
+  }
+}

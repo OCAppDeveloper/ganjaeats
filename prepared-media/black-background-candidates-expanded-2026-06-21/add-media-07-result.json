@@ -1,0 +1,17 @@
+{
+  "productCreateMedia": {
+    "media": [
+      {
+        "id": "gid://shopify/MediaImage/71339399610449",
+        "alt": "Chef Matt Crafted Mango Honey | Gourmet Condiment on black background",
+        "mediaContentType": "IMAGE",
+        "status": "PROCESSING"
+      }
+    ],
+    "mediaUserErrors": [],
+    "product": {
+      "id": "gid://shopify/Product/15531786666065",
+      "title": "Chef Matt Crafted Mango Honey | Gourmet Condiment"
+    }
+  }
+}

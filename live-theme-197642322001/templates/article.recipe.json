@@ -1,0 +1,136 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "recipe-banner": {
+      "type": "main-article-recipe-banner",
+      "blocks": {
+        "icons-with-text": {
+          "type": "icons_with_text",
+          "settings": {
+            "icon_thickness": 1.5,
+            "background_color": "bg-scheme-accent-1 text-scheme-accent-1-contrast",
+            "show_border": true,
+            "icon_size": "h-10 w-10",
+            "icon_1": "people",
+            "text_1": "8-10 serves",
+            "icon_2": "clock",
+            "text_2": "30 minutes",
+            "icon_3": "nut_free",
+            "text_3": "Nut free",
+            "icon_4": "box",
+            "text_4": "",
+            "icon_5": "box",
+            "text_5": ""
+          }
+        },
+        "shape-divider-recipe-banner-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme1",
+            "style": "zig-zag-1-patterned_1200x21",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": ["icons-with-text", "shape-divider-recipe-banner-0"],
+      "settings": {
+        "display_on_card": false,
+        "text_alignment": "lg:text-left",
+        "crop": "",
+        "image_shape": "default",
+        "blob_type": 1,
+        "rotate_image": 0,
+        "image_position": "right",
+        "image_size": "half",
+        "disable_media_style": false,
+        "color_scheme": "scheme3",
+        "use_gradient_background": false
+      }
+    },
+    "main-recipe": {
+      "type": "main-article-recipe",
+      "blocks": {
+        "shape-divider-main-recipe-0": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "above",
+            "target_section_color_scheme": "scheme3",
+            "style": "zig-zag-1-patterned_1200x21",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        },
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "product_1": "",
+            "product_2": "",
+            "product_3": "",
+            "display_on_card": true,
+            "product_tile_style": "mini",
+            "enable_quick_buy": true
+          }
+        },
+        "ingredients": {
+          "type": "ingredients",
+          "settings": {
+            "ingredients_heading": "Ingredients",
+            "display_on_card": true,
+            "ingredients_content": "<ul><li>8 oz (225g) noodles (such as udon, ramen, or rice noodles)</li><li>2 tablespoons crispy chili oil</li><li>2 tablespoons soy sauce</li><li>1 tablespoon rice vinegar</li><li>1 tablespoon sesame oil</li><li>1 tablespoon honey or maple syrup</li><li>2 cloves garlic, minced</li><li>1 teaspoon grated ginger</li><li>1/2 cup thinly sliced green onions</li><li>1/2 cup shredded carrots</li><li>1/2 cup thinly sliced bell pepper</li><li>1/4 cup chopped fresh cilantro</li><li>1/4 cup chopped roasted peanuts or cashews (optional)</li><li>Sesame seeds (for garnish)</li><li>Lime wedges (for serving)</li></ul>"
+          }
+        },
+        "shape-divider-main-recipe-1": {
+          "type": "shape_divider",
+          "settings": {
+            "target_section": "below",
+            "target_section_color_scheme": "scheme2",
+            "style": "waves-1-patterned_1200x20",
+            "flip_horizontal": false,
+            "enable_animation": false,
+            "animation_direction": ""
+          }
+        }
+      },
+      "block_order": [
+        "shape-divider-main-recipe-0",
+        "featured-products",
+        "ingredients",
+        "shape-divider-main-recipe-1"
+      ],
+      "settings": {
+        "show_top_padding": true,
+        "show_next_previous_links": true,
+        "display_on_card": true,
+        "show_author": false,
+        "show_date": false,
+        "show_share_links": true,
+        "show_tags": true,
+        "desktop_max_width": "max-w-7xl",
+        "sidebar_width_desktop": 20,
+        "color_scheme": "",
+        "use_gradient_background": false
+      }
+    },
+    "main-recipe-structured-data": {
+      "type": "main-article-recipe-structured-data",
+      "settings": {
+        "metafield_ingredients": "",
+        "metafield_serves": "",
+        "total_time_metafield": ""
+      }
+    }
+  },
+  "order": ["recipe-banner", "main-recipe", "main-recipe-structured-data"]
+}

@@ -1,0 +1,374 @@
+{
+  "created_at": "2026-06-21T12:17:21",
+  "count": 13,
+  "uploads": [
+    {
+      "handle": "chef-matt-nano-delta-9-powder",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/ae931dde-24c8-4f97-8da6-a41303353898/chef-matt-nano-delta-9-powder-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/759dc818-2ffb-4071-9442-c68cd5a56810/chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/a63943c0-65a4-4c02-86cb-cf85b1dd4c12/chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/764bf3a7-2131-4be4-bdf9-d181390fadda/chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/701486ab-01d8-42e0-9a31-c4eb121047e8/chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/e5352f56-cc56-44da-b578-f99e8b33ce3e/chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-mango-honey-gourmet-condiment",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/09c784ba-3e8c-4d1f-a154-ead043e2a8e9/chef-matt-crafted-mango-honey-gourmet-condiment-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-crafted-sauce-variety-bundle-gourmet-condiments",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/426709a4-0ef8-49c9-8571-3535f40b43ac/chef-matt-crafted-sauce-variety-bundle-gourmet-condiments-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/39d892b7-026a-46e8-93f0-a9f0aa8ac804/chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "litquid-6-pack-crafted-drink-bundle-premium-beverages",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/3602e144-4407-4248-96c9-49233f2ebe3c/litquid-6-pack-crafted-drink-bundle-premium-beverages-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "litquid-lemon-lime-crafted-drink-premium-beverage-16oz",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/1d1d07cd-535e-426b-8143-4ca4e87f86f7/litquid-lemon-lime-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "litquid-mango-crafted-drink-premium-beverage-16oz",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/510d883c-2b58-4289-a3ba-dd63ccec4ab3/litquid-mango-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "text": ""
+    },
+    {
+      "handle": "litquid-watermelon-crafted-drink-premium-beverage-16oz",
+      "status": 201,
+      "ok": true,
+      "resourceUrl": "https://shopify-staged-uploads.storage.googleapis.com/tmp/68457758801/products/1221ee5d-d699-442c-9f29-bdcc9e715a1f/litquid-watermelon-crafted-drink-premium-beverage-16oz-black-bg-candidate.png",
+      "text": ""
+    }
+  ],
+  "media_results": [
+    {
+      "handle": "chef-matt-nano-delta-9-powder",
+      "productId": "gid://shopify/Product/15810126282833",
+      "title": "10 Grams Nano Delta 9 Powder",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339398889553",
+          "alt": "10 Grams Nano Delta 9 Powder on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle",
+      "productId": "gid://shopify/Product/7841925759057",
+      "title": "Chef Matt Crafted Aged Red Pepper Hot Sauce 25 Pack | Gourmet Condiment Bundle",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339398987857",
+          "alt": "Chef Matt Crafted Aged Red Pepper Hot Sauce 25 Pack | Gourmet Condiment Bundle on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle",
+      "productId": "gid://shopify/Product/15531788173393",
+      "title": "Chef Matt Crafted Garlic and Herb Olive Oil 25 Pack | Gourmet Condiment Bundle",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399086161",
+          "alt": "Chef Matt Crafted Garlic and Herb Olive Oil 25 Pack | Gourmet Condiment Bundle on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment",
+      "productId": "gid://shopify/Product/15531781750865",
+      "title": "Chef Matt Crafted Garlic and Herb Olive Oil | Gourmet Condiment",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399151697",
+          "alt": "Chef Matt Crafted Garlic and Herb Olive Oil | Gourmet Condiment on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle",
+      "productId": "gid://shopify/Product/7841926643793",
+      "title": "Chef Matt Crafted Hickory Smoked BBQ Sauce 25 Pack | Gourmet Condiment Bundle",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399413841",
+          "alt": "Chef Matt Crafted Hickory Smoked BBQ Sauce 25 Pack | Gourmet Condiment Bundle on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack",
+      "productId": "gid://shopify/Product/15531831787601",
+      "title": "Chef Matt Crafted Limon Chips | Ready to Enjoy Savory Snack",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399512145",
+          "alt": "Chef Matt Crafted Limon Chips | Ready to Enjoy Savory Snack on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-mango-honey-gourmet-condiment",
+      "productId": "gid://shopify/Product/15531786666065",
+      "title": "Chef Matt Crafted Mango Honey | Gourmet Condiment",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399610449",
+          "alt": "Chef Matt Crafted Mango Honey | Gourmet Condiment on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-crafted-sauce-variety-bundle-gourmet-condiments",
+      "productId": "gid://shopify/Product/15648525254737",
+      "title": "Chef Matt Crafted Sauce Variety Bundle | Gourmet Condiments",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399708753",
+          "alt": "Chef Matt Crafted Sauce Variety Bundle | Gourmet Condiments on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free",
+      "productId": "gid://shopify/Product/15584597999697",
+      "title": "Chef Matt Hot Sauce 5 Pack Bundle | Buy 4 Get 1 Free",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399807057",
+          "alt": "Chef Matt Hot Sauce 5 Pack Bundle | Buy 4 Get 1 Free on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "litquid-6-pack-crafted-drink-bundle-premium-beverages",
+      "productId": "gid://shopify/Product/15812641062993",
+      "title": "LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339399905361",
+          "alt": "LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "litquid-lemon-lime-crafted-drink-premium-beverage-16oz",
+      "productId": "gid://shopify/Product/15811350724689",
+      "title": "LITQUID Lemon Lime Crafted Drink | Premium Beverage | 16oz",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339400069201",
+          "alt": "LITQUID Lemon Lime Crafted Drink | Premium Beverage | 16oz on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "litquid-mango-crafted-drink-premium-beverage-16oz",
+      "productId": "gid://shopify/Product/15811343777873",
+      "title": "LITQUID Mango Crafted Drink | Premium Beverage | 16oz",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339400167505",
+          "alt": "LITQUID Mango Crafted Drink | Premium Beverage | 16oz on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    },
+    {
+      "handle": "litquid-watermelon-crafted-drink-premium-beverage-16oz",
+      "productId": "gid://shopify/Product/15811344433233",
+      "title": "LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz",
+      "errors": [],
+      "media": [
+        {
+          "id": "gid://shopify/MediaImage/71339400265809",
+          "alt": "LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz on black background",
+          "mediaContentType": "IMAGE",
+          "status": "PROCESSING"
+        }
+      ]
+    }
+  ],
+  "reorder_results": [
+    {
+      "handle": "chef-matt-nano-delta-9-powder",
+      "mediaId": "gid://shopify/MediaImage/71339398889553",
+      "job": {
+        "id": "gid://shopify/Job/c121a5df-7c21-4695-aeb8-32e0bd94ea5f"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-aged-red-pepper-hot-sauce-25-pack-gourmet-condiment-bundle",
+      "mediaId": "gid://shopify/MediaImage/71339398987857",
+      "job": {
+        "id": "gid://shopify/Job/331a072e-0765-4b92-a556-396b8c2710e3"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-25-pack-gourmet-condiment-bundle",
+      "mediaId": "gid://shopify/MediaImage/71339399086161",
+      "job": {
+        "id": "gid://shopify/Job/b2674489-fbb7-4536-b944-90a3ec1fa391"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-garlic-and-herb-olive-oil-gourmet-condiment",
+      "mediaId": "gid://shopify/MediaImage/71339399151697",
+      "job": {
+        "id": "gid://shopify/Job/7d0bb7b4-2dcf-4216-92ff-0aafca4a0c53"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-hickory-smoked-bbq-sauce-25-pack-gourmet-condiment-bundle",
+      "mediaId": "gid://shopify/MediaImage/71339399413841",
+      "job": {
+        "id": "gid://shopify/Job/e30fcd7c-59ab-4b8d-bbda-32656bbbb83e"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-limon-chips-ready-to-enjoy-savory-snack",
+      "mediaId": "gid://shopify/MediaImage/71339399512145",
+      "job": {
+        "id": "gid://shopify/Job/32f09e58-db58-4d88-a066-8e540a37dd9e"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-mango-honey-gourmet-condiment",
+      "mediaId": "gid://shopify/MediaImage/71339399610449",
+      "job": {
+        "id": "gid://shopify/Job/e2554b7b-819a-45d4-befb-6246f7c563dc"
+      }
+    },
+    {
+      "handle": "chef-matt-crafted-sauce-variety-bundle-gourmet-condiments",
+      "mediaId": "gid://shopify/MediaImage/71339399708753",
+      "job": {
+        "id": "gid://shopify/Job/53f1202e-14e1-4bc5-a45e-5d69837dc1ef"
+      }
+    },
+    {
+      "handle": "chef-matt-hot-sauce-5-pack-bundle-buy-4-get-1-free",
+      "mediaId": "gid://shopify/MediaImage/71339399807057",
+      "job": {
+        "id": "gid://shopify/Job/04d3b60c-2a74-4638-b1a7-d970fda64dce"
+      }
+    },
+    {
+      "handle": "litquid-6-pack-crafted-drink-bundle-premium-beverages",
+      "mediaId": "gid://shopify/MediaImage/71339399905361",
+      "job": {
+        "id": "gid://shopify/Job/02130208-61c5-45c3-b71d-4d6f7f5f3e84"
+      }
+    },
+    {
+      "handle": "litquid-lemon-lime-crafted-drink-premium-beverage-16oz",
+      "mediaId": "gid://shopify/MediaImage/71339400069201",
+      "job": {
+        "id": "gid://shopify/Job/c5d81ec3-42d3-47ac-9fa1-bd847b27122b"
+      }
+    },
+    {
+      "handle": "litquid-mango-crafted-drink-premium-beverage-16oz",
+      "mediaId": "gid://shopify/MediaImage/71339400167505",
+      "job": {
+        "id": "gid://shopify/Job/91eef127-8c47-4ff1-88d0-6a365835033b"
+      }
+    },
+    {
+      "handle": "litquid-watermelon-crafted-drink-premium-beverage-16oz",
+      "mediaId": "gid://shopify/MediaImage/71339400265809",
+      "job": {
+        "id": "gid://shopify/Job/402ddb03-ff84-4419-8ecc-3bd634f9cdbe"
+      }
+    }
+  ]
+}

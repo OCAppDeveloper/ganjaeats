@@ -1,0 +1,24 @@
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Local runtimes and dependencies
+.image-venv/
+node_modules/
+.cache/
+.tmp/
+
+# Shopify/local verification scratch folders
+remote-asset-check-*/
+verify-pull-*/
+
+# Temporary native-editor validation drafts
+tmp-custom-liquid-*.liquid
+tmp-newsletter-mobile-below-card.liquid
+
+# OS/editor files
+.idea/
+.vscode/
+*.swp

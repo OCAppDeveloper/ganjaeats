@@ -1,0 +1,58 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "footer",
+  "name": "Footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "menus_TpMwkK": {
+          "type": "menus",
+          "settings": {
+            "show_menu_headings": true,
+            "linklist_1": "store-info",
+            "linklist_2": "quick-links",
+            "linklist_3": "our-policy"
+          }
+        }
+      },
+      "block_order": [
+        "menus_TpMwkK"
+      ],
+      "settings": {
+        "show_payment_icons": true,
+        "show_country_selector": false,
+        "show_locale_selector": false,
+        "color_scheme": "scheme2",
+        "use_gradient_background": false
+      }
+    },
+    "hero-logo": {
+      "type": "hero-logo",
+      "settings": {
+        "home_page_only": false,
+        "mobile_text_scale": 6,
+        "desktop_text_scale": 10,
+        "alignment": "center",
+        "logo_max_width": 100,
+        "disable_vertical_spacing": false,
+        "enable_overlay": false,
+        "overlay_offset": 100,
+        "color_scheme": "scheme2",
+        "use_gradient_background": false
+      }
+    }
+  },
+  "order": [
+    "footer",
+    "hero-logo"
+  ]
+}

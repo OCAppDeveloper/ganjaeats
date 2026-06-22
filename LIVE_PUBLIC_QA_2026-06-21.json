@@ -1,0 +1,1038 @@
+{
+  "generatedAt": "2026-06-21T17:32:03.361Z",
+  "cartTest": {
+    "addStatus": 200,
+    "addOk": true,
+    "addText": "{\"id\":58971820851281,\"properties\":{},\"quantity\":1,\"variant_id\":58971820851281,\"key\":\"58971820851281:25e1b676b686110f097a64cd6fac612e\",\"title\":\"Cali Supreme Watermelon Gummies | Fast Onset Crafted Candy\",\"product_title\":\"Cali Supreme Watermelon Gummies | Fast Onset Crafted Candy\",\"variant_title\":null,\"price\":1999,\"original_price\":1999,\"discounted_price\":1999,\"line_price\":1999,\"original_line_price\":1999,\"presentment_price\":19.99,\"total_discount\":0,\"discounts\":[],\"sku\":\"\",\"grams\":0,\"vendor\":\"Ganja ",
+    "cartItemCount": 1,
+    "cartTotal": 1999,
+    "clearItemCount": 0
+  },
+  "results": [
+    {
+      "name": "home",
+      "url": "https://chefmattonline.com/?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=30, db;dur=11, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"index\", servedBy;desc=\"lwl4\", requestID;desc=\"d5c16329-c751-489a-a0b1-f042245fffa4-1782063074\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ\", compressionLevel;desc=\"5\"",
+      "consoleIssues": [
+        {
+          "type": "error",
+          "text": "Framing 'https://shop.app/' violates the following Content Security Policy directive: \"frame-ancestors 'self' https://shop.app https://admin.shopify.com\". The request has been blocked.\n"
+        },
+        {
+          "type": "error",
+          "text": "Failed to load resource: the server responded with a status of 403 ()"
+        }
+      ],
+      "title": "Cannabis Edibles & THC Gummies Menu | Ganja Eats – Ganja Eats Shop",
+      "h1": null,
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": true
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": true
+      },
+      "productMedia": [
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 486
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-71252263108689-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 478
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 478
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170920530001-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170675982417-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170675851345-3  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170675916881-4  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-71115549802577-5  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 486
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-71252263108689-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 478
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 478,
+          "height": 478
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170920530001-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170675982417-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 389
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437537361__collection-focus-carousel-67170675851345-3  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 382,
+          "height": 382
+        }
+      ]
+    },
+    {
+      "name": "collection_all",
+      "url": "https://chefmattonline.com/collections/all?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/collections/all?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=34, db;dur=11, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"collection\", servedBy;desc=\"k6lx\", requestID;desc=\"faa6271f-0330-413a-9a32-886bb9eee814-1782063078\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [],
+      "title": "Products – Ganja Eats Shop",
+      "h1": "PRODUCTS",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": [
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-71252227227729-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-70312616853585-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-70312618524753-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-70312619507793-3  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-70788739137617-4  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-28562677399633-5  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-67170675916881-6  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-71252263108689-7  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-70942414536785-8  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437242449__product-grid-71259047166033-9  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        }
+      ]
+    },
+    {
+      "name": "gummies_pdp",
+      "url": "https://chefmattonline.com/products/cali-supreme-watermelon-gummies-fast-onset-crafted-candy?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/products/cali-supreme-watermelon-gummies-fast-onset-crafted-candy?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=34;desc=\"gc:1\", db;dur=11, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"product\", servedBy;desc=\"xr6k\", requestID;desc=\"922b290c-5dd1-42d1-aa0c-212f2c82cd1c-1782063082\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "warning",
+          "text": "[bugsnag] Ignoring cross-domain or eval script error. See docs: https://tinyurl.com/y94fq5zm"
+        },
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Cali Supreme Watermelon Gummies | Fast Onset Gourmet Candy – Ganja Eats Shop",
+      "h1": "CALI SUPREME WATERMELON GUMMIES | FAST ONSET CRAFTED CANDY",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": true
+      },
+      "productMedia": [
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-70312618524753-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-70312616853585-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-67543313416273-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        }
+      ]
+    },
+    {
+      "name": "litquid_pdp",
+      "url": "https://chefmattonline.com/products/litquid-watermelon-crafted-drink-premium-beverage-16oz?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/products/litquid-watermelon-crafted-drink-premium-beverage-16oz?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=41;desc=\"gc:3\", db;dur=13, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"product\", servedBy;desc=\"g42c\", requestID;desc=\"14f6e486-abb5-4b70-8196-599e115d9813-1782063086\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "warning",
+          "text": "[bugsnag] Ignoring cross-domain or eval script error. See docs: https://tinyurl.com/y94fq5zm"
+        },
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "LITQUID Watermelon Crafted Drink | Premium Beverage | 16oz – Ganja Eats Shop",
+      "h1": "LITQUID WATERMELON CRAFTED DRINK | PREMIUM BEVERAGE | 16OZ",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": true
+      },
+      "productMedia": [
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-70926147485777-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-71110390349905-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-70942414536785-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        }
+      ]
+    },
+    {
+      "name": "bundle_pdp",
+      "url": "https://chefmattonline.com/products/litquid-6-pack-crafted-drink-bundle-premium-beverages?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/products/litquid-6-pack-crafted-drink-bundle-premium-beverages?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=41;desc=\"gc:1\", db;dur=18, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"product\", servedBy;desc=\"z44s\", requestID;desc=\"017ac045-cd7b-4962-8020-643adc919c22-1782063090\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "warning",
+          "text": "[bugsnag] Ignoring cross-domain or eval script error. See docs: https://tinyurl.com/y94fq5zm"
+        },
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "LITQUID 6 Pack Crafted Drink Bundle | Premium Beverages – Ganja Eats Shop",
+      "h1": "LITQUID 6 PACK CRAFTED DRINK BUNDLE | PREMIUM BEVERAGES",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": true
+      },
+      "productMedia": [
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-71110390349905-0  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-71088166076497-1  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "product-media-object relative pb-media-shadow",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 438
+        },
+        {
+          "tag": "DIV",
+          "className": "media media--css-only media-template--29375437832273__related-products-71110409027665-2  default",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        },
+        {
+          "tag": "DIV",
+          "className": "media__styled-element object-wrapper aspect-w-1 aspect-h-1",
+          "backgroundColor": "rgba(0, 0, 0, 0)",
+          "width": 430,
+          "height": 430
+        }
+      ]
+    },
+    {
+      "name": "cart",
+      "url": "https://chefmattonline.com/cart?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/cart?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=32;desc=\"gc:1\", db;dur=10, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"cart\", servedBy;desc=\"hcmf\", requestID;desc=\"6be059db-f545-4cf7-bd9e-7c076516ffde-1782063093\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Your Shopping Cart – Ganja Eats Shop",
+      "h1": "YOUR CART",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "contact",
+      "url": "https://chefmattonline.com/pages/contact?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/pages/contact?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=33;desc=\"gc:2\", db;dur=11, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"page\", servedBy;desc=\"vg4k\", requestID;desc=\"15bc8356-63ed-4601-a80b-252089c765a1-1782063097\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Chef Matt Store | Contact – Ganja Eats Shop",
+      "h1": "CONTACT US",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "faq",
+      "url": "https://chefmattonline.com/pages/faqs?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/pages/faqs?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=73;desc=\"gc:1\", db;dur=42, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"page\", servedBy;desc=\"jcfk\", requestID;desc=\"c1197811-0edb-4bbd-977b-35e03419cca4-1782063100\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Chef Matt Store | FAQs – Ganja Eats Shop",
+      "h1": "FAQS",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "new_to_thc",
+      "url": "https://chefmattonline.com/pages/new-to-thc?_qa=1782063100",
+      "status": 404,
+      "finalUrl": "https://chefmattonline.com/pages/new-to-thc?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=75;desc=\"gc:2\", db;dur=30, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"404\", servedBy;desc=\"7krl\", requestID;desc=\"7500721a-a58f-4c3f-b0b6-d361ccdde4eb-1782063103\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri",
+      "consoleIssues": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: the server responded with a status of 404 ()"
+        },
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "404 Not Found – Ganja Eats Shop",
+      "h1": "404 PAGE NOT FOUND",
+      "is404": true,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "lab_results",
+      "url": "https://chefmattonline.com/pages/lab-results?_qa=1782063100",
+      "status": 404,
+      "finalUrl": "https://chefmattonline.com/pages/lab-results?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=48;desc=\"gc:5\", db;dur=16, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"404\", servedBy;desc=\"fnqm\", requestID;desc=\"1eac005c-7d32-4c96-bffa-dbd4cba22201-1782063107\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri",
+      "consoleIssues": [
+        {
+          "type": "error",
+          "text": "Failed to load resource: the server responded with a status of 404 ()"
+        }
+      ],
+      "title": "404 Not Found – Ganja Eats Shop",
+      "h1": "404 PAGE NOT FOUND",
+      "is404": true,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "refund_policy",
+      "url": "https://chefmattonline.com/policies/refund-policy?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/policies/refund-policy?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=41, db;dur=16, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"policy\", servedBy;desc=\"2pkg\", requestID;desc=\"864b36bf-27cb-4c1e-b046-7b4f4d7db84c-1782063110\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Refund policy – Ganja Eats Shop",
+      "h1": "REFUND POLICY",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    },
+    {
+      "name": "privacy_policy",
+      "url": "https://chefmattonline.com/policies/privacy-policy?_qa=1782063100",
+      "status": 200,
+      "finalUrl": "https://chefmattonline.com/policies/privacy-policy?_qa=1782063100",
+      "serverTimingTheme": "197110235217",
+      "serverTiming": "processing;dur=30;desc=\"gc:2\", db;dur=10, asn;desc=\"7018\", edge;desc=\"LAX\", country;desc=\"US\", theme;desc=\"197110235217\", pageType;desc=\"policy\", servedBy;desc=\"cg8s\", requestID;desc=\"76608862-9f40-4fd7-9b47-435563b4bc4f-1782063114\", _y;desc=\"8dee503e-4df2-410a-9b6d-f937bc9523cb\", _s;desc=\"0842b34e-de5a-48cd-ba68-a702de7ce02e\", _cmp;desc=\"3.AMPS_USCA_f_t_IyJZ*NRgQNCuoGfGxvszxQ_%7B%7D\", compressionLevel;desc=\"5\"\ncfExtPri, earlyhints",
+      "consoleIssues": [
+        {
+          "type": "pageerror",
+          "text": "Goaffpro is already loaded. This message prevents duplicate loading of the script. Kindly ignore."
+        }
+      ],
+      "title": "Privacy policy – Ganja Eats Shop",
+      "h1": "PRIVACY POLICY",
+      "is404": false,
+      "bodyMarkers": {
+        "geNative": false,
+        "shopBestSellers": false,
+        "startHere": false,
+        "oldMunchHero": false
+      },
+      "apps": {
+        "metaPixel": true,
+        "shopifyAnalytics": true,
+        "webPixelsManager": true,
+        "clarity": true,
+        "judgeMe": true,
+        "goAffPro": true,
+        "acceleratedCheckout": false
+      },
+      "productMedia": []
+    }
+  ]
+}
