@@ -834,23 +834,23 @@
           "settings": {
             "icon": "none",
             "title": "What payment methods do you accept?",
-            "answer": "<p>We securely accept major credit/debit cards as well as digital payment options like Apple Pay, Google Pay, and Shop Pay.</p>"
+            "answer": "<p>We securely accept major credit/debit cards, digital wallets like Apple Pay, Google Pay, and Shop Pay, and <strong>cryptocurrency</strong> (Bitcoin, Ethereum, USDT and more) at checkout.</p>"
           }
         },
         "question_Jibh7c": {
           "type": "question",
           "settings": {
             "icon": "none",
-            "title": "What makes Chef Matt’s sauces special?",
-            "answer": "<p>Our sauces are made in small batches with artisan quality. Every recipe is developed by Chef Matt himself to deliver intense flavor—not just heat.</p>"
+            "title": "How are Chef Matt’s products made?",
+            "answer": "<p>Our products are made in small batches with artisan quality. Every recipe is developed by Chef Matt himself to deliver intense flavor—not just heat.</p>"
           }
         },
         "question_EhqazT": {
           "type": "question",
           "settings": {
             "icon": "none",
-            "title": "But like I told you this plantIs my payment information secure?",
-            "answer": "<p>Yes! Our website uses industry-standard SSL encryption to protect your information. Your data is safe and never stored on our servers.</p>"
+            "title": "Is my payment information secure?",
+            "answer": "<p>Yes. Our checkout uses industry-standard SSL encryption to protect your information, and card payments are processed through PCI-compliant providers. We never store your full payment details on our servers. Prefer to pay another way? We also accept cryptocurrency at checkout.</p>"
           }
         },
         "question_YgKxYj": {

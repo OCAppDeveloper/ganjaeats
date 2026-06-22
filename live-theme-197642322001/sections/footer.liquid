@@ -273,6 +273,12 @@
                 </li>
               {% endfor %}
             </ul>
+            {%- if section.settings.show_crypto_badge -%}
+              <p class="crypto-accepted-badge mt-3 flex items-center gap-1.5 text-sm opacity-80 {% if country_selector or locale_selector %}lg:justify-center{% endif %}">
+                <span class="inline-block w-4 shrink-0">{% render 'icon-crypto' %}</span>
+                {{ section.settings.crypto_badge_text }}
+              </p>
+            {%- endif -%}
           </div>
         {% endunless %}
       {%- endif -%}
@@ -312,6 +318,19 @@
       "id": "show_payment_icons",
       "label": "t:sections.footer.settings.show_payment_icons.label",
       "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "show_crypto_badge",
+      "label": "Show \"crypto accepted\" badge",
+      "info": "Displays a cryptocurrency badge next to the payment icons. Turn on once your crypto gateway (NOWPayments) is live at checkout.",
+      "default": false
+    },
+    {
+      "type": "text",
+      "id": "crypto_badge_text",
+      "label": "Crypto badge text",
+      "default": "Crypto accepted — BTC, ETH, USDT & more"
     },
     {
       "type": "header",
